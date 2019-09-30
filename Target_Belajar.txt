@@ -1,4 +1,8 @@
-Senin : Bootstrap, GIT
-Selasa : Sistem Informasi
-Rabu : Kosong
-Kamis : Belajar GNS 3
+Senin : GIT (Branch, Merge)
+Senin : Desain Antarmuka (Wireframe)
+Selasa : SIM (Sistem Informasi Manajemen)
+
+Kamis : GNS 3
+Jumat : Triger DB
+Sabtu : Ahmad Fatakhul Afifudin Tugas Kelompok UI
+Minggu : Ahmad Fatakhul Afifudin Tugas Kelompok Basis Data Lanjut
