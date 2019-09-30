@@ -6,3 +6,5 @@ Kamis : GNS 3
 Jumat : Triger DB
 Sabtu : Ahmad Fatakhul Afifudin Tugas Kelompok UI
 Minggu : Ahmad Fatakhul Afifudin Tugas Kelompok Basis Data Lanjut
+
+ini perubahan file yang di BRANCH
