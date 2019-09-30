@@ -1,7 +1,8 @@
-Senin : GIT
-Selasa : Sistem Informasi
+Senin : GIT (Branch, Merge)
+Senin : Desain Antarmuka (Wireframe)
+Selasa : SIM (Sistem Informasi Manajemen)
 
-Kamis : Belajar GNS3
-Jum'at : Trigger DB
-
-ini di master
+Kamis : GNS 3
+Jumat : Triger DB
+Sabtu : Ahmad Fatakhul Afifudin Tugas Kelompok UI
+Minggu : Ahmad Fatakhul Afifudin Tugas Kelompok Basis Data Lanjut
